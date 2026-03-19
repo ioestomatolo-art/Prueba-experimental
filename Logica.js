@@ -1,6 +1,6 @@
 import { createClient } from "https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm";
 
-const SUPABASE_URL = "REEMPLAZA_CON_TU_SUPABASE_URL";
+const SUPABASE_URL = "https://gprkhjjpeaeapqragqlp.supabase.co";
 const SUPABASE_ANON_KEY = "REEMPLAZA_CON_TU_SUPABASE_ANON_KEY";
 const SERVER_BASE = "https://sever-exp.onrender.com";
 
